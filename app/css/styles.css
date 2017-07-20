@@ -1,2 +1,7 @@
 .testing {
-  width: 71.42857%; }
+  width: 71.4285714286%; }
+
+body {
+  background-color: grey;
+  font-size: 12px;
+  padding: 20px; }

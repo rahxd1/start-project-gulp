@@ -1,2 +1,14 @@
 .print {
-  width: 50%; }
+  width: 50%;
+  background-color: red;
+  font-size: 40px;
+  color: blue; }
+
+div {
+  padding: 2px;
+  font-size: 12px; }
+  div a {
+    text-align: center; }
+    div a i {
+      font-size: 8px;
+      color: red; }
