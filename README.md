@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # Gulp Starter for project
 
 This repo is a gulp starter.
